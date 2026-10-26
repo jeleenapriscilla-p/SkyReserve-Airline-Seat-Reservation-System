@@ -1,0 +1,10 @@
+# Runtime booking data (may contain personal passenger details)
+airline_reservation_data.json
+
+# Python-generated files
+__pycache__/
+*.py[cod]
+
+# Local development settings
+.vscode/
+.idea/
